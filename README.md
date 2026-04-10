@@ -3,8 +3,6 @@ Sentiment analysis of social media posts on X (created July 2023).
 
 This project was created on July 20, 2023, as part of the Cisco Career Exploration Program. Used pandas, numpy, matplotlib, scikit-learn, and seaborn for vectorization, logistic regression, and analysis of social media posts. Created a logistic regression classifier that predicts indicators of depression in social media text, trained on a labeled dataset of tweets.
 
-Google Colaboratory link: https://colab.research.google.com/drive/1hOWJtwgbsPsiBvkfr1ck4HU8XW5Av0VI?usp=sharing
-
 ## Dataset
 
 - **Source:** [Sentimental Analysis for Tweets](https://www.kaggle.com/datasets/gargmanas/sentimental-analysis-for-tweets) (Kaggle)
